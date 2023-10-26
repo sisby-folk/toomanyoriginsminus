@@ -19,9 +19,9 @@ For a full explanation of the design of these cut origins, please check out the 
 
 ## Origins
 
-![Flighty Preview](https://cdn.modrinth.com/data/4DZN6MoU/images/3a17284f981ea34e76597a17e8fed8fd29f60e50.png)<br/>
-![Volatile Preview](https://cdn.modrinth.com/data/4DZN6MoU/images/fbd7b32a2ec65e794d5671c82a37e7f5b6f8eb65.png)<br/>
-![Airsteady Preview](https://cdn.modrinth.com/data/4DZN6MoU/images/98e3f7d3d4e99ad4414ad643799316626f46e268.png)<br/>
+![Flighty Preview](https://cdn.modrinth.com/data/4DZN6MoU/images/921a119d2948be01aa2b3195d62e3b74122ddda8.png)<br/>
+![Volatile Preview](https://cdn.modrinth.com/data/4DZN6MoU/images/d355972a28075378352d249585cabe1358a866ad.png)<br/>
+![Airsteady Preview](https://cdn.modrinth.com/data/4DZN6MoU/images/1f4168ac2cc06306833b19cb99c774513c3f0399.png)<br/>
 
 ## Further Info
 
