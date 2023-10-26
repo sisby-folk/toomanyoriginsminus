@@ -1,7 +1,7 @@
 <center></center>
 
 <center>
-An addon for <a href="https://modrinth.com/mod/origins-minus">TooManyOriginsMinus</a> that adds minus-balanced origins cut from TMO.<br/>
+An addon for <a href="https://modrinth.com/mod/origins-minus">Origins Minus</a> that adds minus-balanced origins cut from TMO.<br/>
 Requires <a href="https://modrinth.com/mod/origins/versions">Origins</a> and <a href="https://modrinth.com/mod/toomanyorigins">TooManyOrigins</a>.<br/>
 </center>
 
