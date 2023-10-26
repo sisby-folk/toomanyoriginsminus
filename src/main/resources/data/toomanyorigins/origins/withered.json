@@ -1,0 +1,16 @@
+{
+  "powers": [
+    "toomanyorigins:affliction",
+    "toomanyorigins:soul_siphon",
+    "origins:nether_spawn",
+    "toomanyorigins:hell_raised",
+    "toomanyorigins:spirit_strider",
+    "toomanyorigins:deathly_digestion",
+    "toomanyorigins:unholy"
+  ],
+  "icon": "minecraft:wither_rose",
+  "order": 561,
+  "impact": 3,
+  "loading_priority": 100,
+  "unchoosable": true
+}

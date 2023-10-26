@@ -1,0 +1,11 @@
+{
+  "name": "origin.toomanyoriginsminus.hisskin.name",
+  "description": "origin.toomanyoriginsminus.hisskin.description",
+  "powers": [
+    "toomanyoriginsminus:buildup",
+    "toomanyoriginsminus:aerial_stability"
+  ],
+  "icon": "minecraft:gunpowder",
+  "impact": 1,
+  "loading_priority": 100
+}

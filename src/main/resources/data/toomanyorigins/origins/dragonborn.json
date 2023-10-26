@@ -1,0 +1,14 @@
+{
+  "powers": [
+    "toomanyorigins:draconic_breath",
+    "toomanyorigins:block_synergistics",
+    "toomanyorigins:weaponry_pride",
+    "toomanyorigins:zenith_scales",
+    "toomanyorigins:rough_claws"
+  ],
+  "icon": "minecraft:dragon_breath",
+  "order": 558,
+  "impact": 1,
+  "loading_priority": 100,
+  "unchoosable": true
+}

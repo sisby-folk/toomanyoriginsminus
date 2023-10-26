@@ -1,0 +1,12 @@
+{
+	"pack": {
+		"name": "TooManyOriginsMinus",
+		"id": "toomanyoriginsminus",
+		"pack_format": 10,
+		"authors": [
+			"Sisby folk",
+			"MerchantPug"
+		],
+		"description": "Origins Minus -balanced origins cut from TMO."
+	}
+}

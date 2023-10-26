@@ -1,0 +1,26 @@
+{
+  "origin.toomanyoriginsminus.hare.name": "Flighty",
+  "origin.toomanyoriginsminus.hare.description": "Whip across landscapes.",
+
+  "origin.toomanyoriginsminus.hisskin.name": "Volatile",
+  "origin.toomanyoriginsminus.hisskin.description": "Unsteady dancers.",
+
+  "origin.toomanyoriginsminus.swarm.name": "Airsteady",
+  "origin.toomanyoriginsminus.swarm.description": "Careful and controlled.",
+
+  "power.toomanyoriginsminus.hot_hops.name": "Leaps and Bounds",
+  "power.toomanyoriginsminus.hot_hops.description": "Sprint-jumping gradually increases velocity.",
+  "tooltip.toomanyoriginsminus.hot_hops.water": "At top speed, you can traverse water.",
+
+  "power.toomanyoriginsminus.buildup.name": "Outburst",
+  "power.toomanyoriginsminus.buildup.description": "Blast away from a block.",
+  "tooltip.toomanyoriginsminus.buildup.health_cost":  "Damages you if protection is recharging.",
+
+  "power.toomanyoriginsminus.aerial_stability.name": "Air Sailor",
+  "power.toomanyoriginsminus.aerial_stability.description": "Drift down slower.",
+
+  "power.toomanyoriginsminus.hover.name": "Hover",
+  "power.toomanyoriginsminus.hover.description": "Hold your height in the air.",
+
+  "tooltip.toomanyoriginsminus.generic.held_active": "Active ability, use by holding %s."
+}

@@ -1,0 +1,116 @@
+{
+  "loading_priority": 100,
+  "type": "origins:multiple",
+  "badges": [
+    {
+      "type": "toomanyorigins:defined_keybind",
+      "sprite": "origins:textures/gui/badge/active.png",
+      "text": "tooltip.toomanyoriginsminus.generic.held_active",
+      "key": {
+        "key": "key.jump"
+      }
+    }
+  ],
+  "hover": {
+    "type": "toomanyorigins:hover",
+    "step_assist": 0.6,
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "toomanyorigins:velocity",
+          "y": 0.0,
+          "comparison": "<="
+        },
+        {
+          "type": "toomanyorigins:key_pressed",
+          "key": {
+            "key": "key.jump",
+            "continuous": true
+          }
+        },
+        {
+          "type": "origins:climbing",
+          "inverted": true
+        },
+        {
+          "type": "origins:fluid_height",
+          "fluid": "minecraft:water",
+          "comparison": ">",
+          "compare_to": "0",
+          "inverted": true
+        },
+        {
+          "type": "origins:fluid_height",
+          "fluid": "minecraft:lava",
+          "comparison": ">",
+          "compare_to": "0",
+          "inverted": true
+        },
+        {
+          "type": "origins:fall_flying",
+          "inverted": true
+        },
+        {
+          "type": "origins:riding",
+          "inverted": true
+        }
+      ]
+    }
+  },
+  "deplete_hunger_while_using": {
+    "type": "origins:action_over_time",
+    "entity_action": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:if_else",
+          "condition": {
+            "type": "origins:gamemode",
+            "gamemode": "creative",
+            "inverted": true
+          },
+          "if_action": {
+            "type": "origins:if_else",
+            "condition": {
+              "type": "origins:sprinting"
+            },
+            "if_action": {
+              "type": "origins:exhaust",
+              "amount": 0.05
+            },
+            "else_action": {
+              "type": "origins:exhaust",
+              "amount": 0.02
+            }
+          }
+        },
+        {
+          "type": "origins:if_else",
+          "condition": {
+            "type": "origins:and",
+            "conditions": [
+              {
+                "type": "origins:gamemode",
+                "gamemode": "creative",
+                "inverted": true
+              },
+              {
+                "type": "origins:using_item"
+              }
+            ]
+          },
+          "if_action": {
+            "type": "origins:exhaust",
+            "amount": 0.03
+          }
+        }
+      ]
+    },
+    "interval": 1,
+    "condition": {
+      "type": "origins:power_active",
+      "power": "*:*_hover"
+    }
+  }
+}

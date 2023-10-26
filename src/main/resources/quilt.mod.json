@@ -1,0 +1,40 @@
+{
+	"schema_version": 1,
+	"quilt_loader": {
+		"group": "folk.sisby",
+		"id": "toomanyoriginsminus",
+		"version": "${version}",
+		"metadata": {
+			"name": "TooManyOriginsMinus",
+			"description": "Origins minus -balanced origins cut from tmo.",
+			"contributors": {
+				"Sisby folk": "Co-Authors",
+				"MerchantPug": "Original Mod Author"
+			},
+			"contact": {
+				"homepage": "https://modrinth.com/mod/toomanyoriginsminus",
+				"issues": "https://github.com/sisby-folk/toomanyoriginsminus/issues",
+				"sources": "https://github.com/sisby-folk/toomanyoriginsminus"
+			},
+			"icon": "assets/toomanyoriginsminus/icon.png"
+		},
+		"intermediate_mappings": "net.fabricmc:intermediary",
+		"depends": [
+			{
+				"id": "quilt_loader",
+				"versions": ">=${ql}"
+			},
+			{
+				"id": "minecraft",
+				"versions": ">=${mc}"
+			},
+			{
+				"id": "origins"
+			},
+			{
+				"id": "toomanyorigins",
+				"versions": ">=1.0.0-"
+			}
+		]
+	}
+}

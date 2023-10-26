@@ -1,0 +1,14 @@
+{
+  "name": "origin.toomanyoriginsminus.hare.name",
+  "description": "origin.toomanyoriginsminus.hare.description",
+  "powers": [
+    "toomanyoriginsminus:hot_hops",
+    "toomanyorigins:waterskipper",
+    "toomanyorigins:extra_step_height",
+    "toomanyorigins:prevent_movement_checks",
+    "toomanyorigins:cancel_out_sprint_disable_on_hit"
+  ],
+  "icon": "minecraft:leather_boots",
+  "impact": 1,
+  "loading_priority": 100
+}

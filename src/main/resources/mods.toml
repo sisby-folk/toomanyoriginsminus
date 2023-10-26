@@ -1,0 +1,31 @@
+modLoader = 'lowcodefml'
+loaderVersion = '[40,)'
+license = 'LGPL-3.0-only'
+showAsResourcePack = false
+issueTrackerURL = 'https://github.com/sisby-folk/toomanyoriginsminus/issues'
+
+[[mods]]
+modId = 'toomanyoriginsminus'
+version = '${version}'
+displayName = 'TooManyOriginsMinus'
+description = 'Origins minus -balanced origins cut from tmo.'
+logoFile = 'assets/toomanyoriginsminus/icon.png'
+authors = 'Sisby folk'
+displayURL = 'https://modrinth.com/mod/toomanyoriginsminus'
+
+[[dependencies.toomanyoriginsminus]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[${mc},)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.toomanyoriginsminus]]
+modId = "origins"
+mandatory = true
+versionRange = "*"
+
+[[dependencies.toomanyoriginsminus]]
+modId = "toomanyorigins"
+mandatory = true
+versionRange = "[1.0.0-,)"
