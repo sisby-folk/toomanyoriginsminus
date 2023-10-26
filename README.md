@@ -15,7 +15,7 @@ Requires <a href="https://modrinth.com/mod/origins/versions">Origins</a> and <a 
 Cut-down origins are short and sweet, with no scrolling.           
 Low-impact origins have no drawbacks, while mid-impact origins have some limitations.
 
-For a full explanation of the design of these cut origins, please check out the <a href="https://modrinth.com/mod/origins-minus">TooManyOriginsMinus</a> page.
+For a full explanation of the design of these cut origins, check out the <a href="https://modrinth.com/mod/origins-minus">Origins Minus</a> page.
 
 ## Origins
 
