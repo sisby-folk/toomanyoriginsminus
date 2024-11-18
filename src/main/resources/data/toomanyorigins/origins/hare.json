@@ -2,7 +2,7 @@
   "name": "origin.toomanyoriginsminus.hare.name",
   "description": "origin.toomanyoriginsminus.hare.description",
   "powers": [
-    "toomanyoriginsminus:hot_hops",
+    "toomanyorigins:hot_hops",
     "toomanyorigins:waterskipper",
     "toomanyorigins:extra_step_height",
     "toomanyorigins:prevent_movement_checks",
