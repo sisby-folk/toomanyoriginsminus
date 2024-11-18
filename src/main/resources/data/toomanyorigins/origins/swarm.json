@@ -2,7 +2,7 @@
   "name": "origin.toomanyoriginsminus.swarm.name",
   "description": "origin.toomanyoriginsminus.swarm.description",
   "powers": [
-    "toomanyoriginsminus:hover",
+    "toomanyorigins:hover",
     "toomanyorigins:beekeeper"
   ],
   "icon": "minecraft:honeycomb",
