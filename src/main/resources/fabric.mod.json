@@ -1,27 +1,23 @@
 {
 	"schemaVersion": 1,
-	"id": "toomanyoriginsminus",
+	"id": "${modId}",
 	"version": "${version}",
-	"name": "`TooManyOriginsMinus`",
-	"description": "Origins Minus -balanced origins cut from TMO.",
+	"name": "${modName}",
+	"description": "${modDescription}",
 	"authors": [
-		"Sisby folk",
-		"MerchantPug"
+		"${authors}"
 	],
 	"contact": {
-		"homepage": "https://modrinth.com/mod/toomanyoriginsminus",
-		"issues": "https://github.com/sisby-folk/toomanyoriginsminus/issues",
-		"sources": "https://github.com/sisby-folk/toomanyoriginsminus"
+		"homepage": "${homepage}",
+		"issues": "${issues}",
+		"sources": "${sources}"
 	},
-	"license": "LGPL-3.0-only",
-	"icon": "assets/toomanyoriginsminus/icon.png",
-	"environment": "*",
+	"license": "${license}",
+	"icon": "assets/${modId}/icon.png",
 	"depends": {
 		"fabricloader": "*",
-		"minecraft": ">=${mc}",
+		"minecraft": "*",
 		"origins": "*",
-		"toomanyorigins": ">=1.0.0-"
-	},
-	"suggests": {
+		"toomanyorigins": "*"
 	}
 }
