@@ -1,6 +1,8 @@
 {
   "loading_priority": 100,
   "type": "origins:multiple",
+  "name": "origin.toomanyoriginsminus.hover.name",
+  "description": "origin.toomanyoriginsminus.hover.description",
   "badges": [
     {
       "type": "toomanyorigins:defined_keybind",

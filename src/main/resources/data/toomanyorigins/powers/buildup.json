@@ -1,5 +1,7 @@
 {
   "loading_priority": 100,
+  "name": "origin.toomanyoriginsminus.buildup.name",
+  "description": "origin.toomanyoriginsminus.buildup.description",
   "type": "origins:multiple",
   "badges": [
     {
