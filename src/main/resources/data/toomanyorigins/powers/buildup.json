@@ -25,6 +25,7 @@
     }
   },
   "rocket_jump": {
+    "hidden": true,
     "type": "origins:active_self",
     "entity_action": {
       "type": "toomanyorigins:explosion_raycast",
