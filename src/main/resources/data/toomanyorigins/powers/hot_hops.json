@@ -1,8 +1,8 @@
 {
   "loading_priority": 100,
   "type": "origins:multiple",
-  "name": "origin.toomanyoriginsminus.hot_hops.name",
-  "description": "origin.toomanyoriginsminus.hot_hops.description",
+  "name": "power.toomanyoriginsminus.hot_hops.name",
+  "description": "power.toomanyoriginsminus.hot_hops.description",
   "badges": [
     {
       "sprite": "origins:textures/gui/badge/info.png",
