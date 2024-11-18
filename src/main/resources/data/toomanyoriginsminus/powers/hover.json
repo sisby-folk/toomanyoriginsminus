@@ -58,7 +58,6 @@
     }
   },
   "debounce": {
-    "hidden": true,
     "type": "origins:active_self",
     "entity_action": {
       "type": "origins:change_resource",
@@ -72,7 +71,6 @@
     "key": "key.jump"
   },
   "hover": {
-    "hidden": true,
     "type": "toomanyorigins:hover",
     "step_assist": 0.6,
     "condition": {
