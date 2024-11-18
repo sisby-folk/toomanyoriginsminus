@@ -1,5 +1,7 @@
 {
   "loading_priority": 100,
+  "name": "origin.toomanyoriginsminus.aerial_stability.name",
+  "description": "origin.toomanyoriginsminus.aerial_stability.description",
   "type": "origins:modify_velocity",
   "modifiers": [
     {
