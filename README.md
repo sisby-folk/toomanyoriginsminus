@@ -3,7 +3,7 @@
 
 <center>
 Even more origins focused on simplicity, not balance.<br/>
-Requires <a href="https://modrinth.com/mod/origins">Origins</a> and <a href="https://modrinth.com/mod/toomanyorigins">Pehkui</a>.<br/>
+Requires <a href="https://modrinth.com/mod/origins">Origins</a> and <a href="https://modrinth.com/mod/toomanyorigins">TooManyOrigins</a>.<br/>
 Also try <a href="https://modrinth.com/datapack/tinkerers-statures">Origins Minus</a> and <a href="https://modrinth.com/datapack/tinkerers-statures">Statures</a>! 
 </center>
 
